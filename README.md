@@ -8,10 +8,9 @@
 
 Simple JWT is a JSON Web Token authentication plugin for the Django REST
 
-Framework ![http://www.django-rest-framework.org/]()
+[Framework](http://www.django-rest-framework.org/) 
 
-For full documentation, visit django-rest-framework-simplejwt.readthedocs.io
-![https://django-rest-framework-simplejwt.readthedocs.io/en/latest/]()
+For full [documentation](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/), visit django-rest-framework-simplejwt.readthedocs.io
 
 
 二次开发的Simple JWT
@@ -56,10 +55,8 @@ urlpatterns = [
 
 
 
-## For more information, see here
+## For more information
 ### 验证码有效期是120秒
-
-![https://github.com/SimpleJWT/django-rest-framework-simplejwt/issues/207]()
 
 
 
